@@ -1,0 +1,21 @@
+{
+    "COMPANY NAME": "T - AT&T Inc.",
+    "CURRENT PRICE": "38.57",
+    "OTHER_DETAILS": {
+        "PREVIOUS CLOSE VALUE": "38.80",
+        "OPEN": "38.81",
+        "BID": "38.54 x 21500",
+        "ASK": "38.55 x 3200",
+        "TD VOL": "26,587,359",
+        "AVG VOLUME 3 MONTHS": "28,663,944",
+        "MARKET CAP": "284B",
+        "PE RATIO": "17.29",
+        "EPS RATIO": "2.23",
+        "EARNINGS DATE": [
+            "Jan 28, 2020"
+        ],
+        "DIVIDEND & YIELD": "2.08 (5.30%)",
+        "EX DIVIDEND DATE": "Jan 08, 2020",
+        "ONE YR PREDICTION": "39.02"
+    }
+}
